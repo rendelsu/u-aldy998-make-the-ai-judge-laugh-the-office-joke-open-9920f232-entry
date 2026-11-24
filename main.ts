@@ -1,4 +1,4 @@
-// Make the AI Judge Laugh: the Office Joke Open — r1
+// Make the AI Judge Laugh: the Office Joke Open — r1 (revised header)
 // Writes one single-line office joke (<=200 chars) to /output/entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 
